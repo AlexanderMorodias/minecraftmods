@@ -1,3 +1,14 @@
+instaladas
+---------------------------------------------------
+FastWorkBench
+security Craft
+bloodmoon
+emoticons
+jei
+journeymap
+emoticons
+---------------------------------------------------
+
 chococraft3
 extra utilities
 far from home
@@ -6,14 +17,26 @@ Mowzie's Mobs
 chisel
 hwyla
 dynamix trees
-bloodmoon
-emoticons
 malisisdoors
 Vending block
 Mob Dismemberment
 apple skin
 Fence Jumper
 Ferdinands flowers
-FastWorkBench
+
 Immersive Craft
 Pams harvestcraft
+
+ElectroblobsWizardry
+MrCrayfish’s Furniture
+Globe
+OnlinePicFrame
+pyrotech
+RoguelikeDungeons
+rustic
+tombstone
+xp_matters
+ancientwarfare 2
+albedo torch
+furniture
+
